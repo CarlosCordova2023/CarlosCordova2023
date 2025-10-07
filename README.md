@@ -1,5 +1,10 @@
 # 💫 About Me:
-Joven apasionado por el uso de las tecnologías y dispuesto a prestar servicios en el área TI para solucionar las diferentes necesidades de las clientes.
+
+Soy un desarrollador full stack apasionado por crear soluciones digitales innovadoras y funcionales. Con formación en desarrollo web y experiencia en diversos proyectos, me especializo en JavaScript, React, Node.js y bases de datos.
+
+Mi objetivo profesional es formar parte de un equipo dinámico donde pueda contribuir con mis habilidades técnicas y creativas, mientras continúo aprendiendo y creciendo en el campo del desarrollo de software.
+
+Cuando no estoy programando, disfruto de la fotografía, el senderismo y participar en comunidades de desarrollo para compartir conocimientos y aprender de otros profesionales.
 
 
 # 💻 Tech Stack:
