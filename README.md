@@ -23,6 +23,103 @@ Soy un apasionado por el desarrollo de software, con experiencia en **JavaScript
 - Contribuir a proyectos open source.
 - Seguir aprendiendo sobre cloud y DevOps.
 
+
+
+# ¡Hola! 👋 Soy Carlos Córdova
+
+### 🚀 Desarrollador Full Stack en formación
+
+Soy un apasionado por el desarrollo de software con experiencia en la creación de aplicaciones web funcionales y escalables. Me encanta aprender nuevas tecnologías y enfrentar desafíos de programación.
+
+## 🛠️ Tecnologías y Herramientas
+
+### Frontend:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend:
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Bases de Datos:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Herramientas:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 💼 Proyectos Destacados
+
+### 1. 🎯 [Sistema de Gestión de Tareas](https://github.com/CarlosCordova2023/todo-app)
+Aplicación web para gestión de tareas con funciones CRUD completas.
+
+**Tecnologías:** HTML, CSS, JavaScript, Node.js, MongoDB  
+**Características:** 
+- ✅ Agregar, editar y eliminar tareas
+- ✅ Marcar tareas como completadas
+- ✅ Filtros por estado
+- ✅ Persistencia de datos
+
+**Lo que aprendí:** Manipulación del DOM, operaciones CRUD, diseño responsive.
+
+---
+
+### 2. 🎬 [Clon de Interfaz de Netflix](https://github.com/CarlosCordova2023/netflix-clone)
+Réplica de la interfaz de Netflix con diseño responsive y carrusel interactivo.
+
+**Tecnologías:** HTML, CSS, JavaScript, Swiper.js, TMDB API  
+**Características:**
+- 🎥 Carrusel de películas interactivo
+- 📱 Diseño completamente responsive
+- 🔍 Búsqueda de contenido
+- ❤️ Favoritos local
+
+**Lo que aprendí:** CSS Grid/Flexbox avanzado, consumo de APIs, UX/UI moderno.
+
+---
+
+### 3. 🔐 [API REST - Gestión de Usuarios](https://github.com/CarlosCordova2023/user-management-api)
+API RESTful para gestión de usuarios con autenticación JWT y seguridad.
+
+**Tecnologías:** Node.js, Express, MongoDB, JWT, Bcrypt  
+**Características:**
+- 👥 CRUD completo de usuarios
+- 🔑 Autenticación JWT
+- 🛡️ Contraseñas hasheadas
+- 📚 Documentación con Swagger
+
+**Lo que aprendí:** Arquitectura REST, seguridad web, middlewares, testing de APIs.
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=CarlosCordova2023&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCordova2023&layout=compact&theme=radical)
+
+## 🎯 Objetivos Profesionales
+
+- 🌟 Consolidar mis habilidades en desarrollo full stack
+- 🚀 Aprender más sobre cloud computing (AWS/Azure)
+- 💡 Contribuir a proyectos open source
+- 📚 Seguir especializándome en backend y bases de datos
+
+## 📫 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@ejemplo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://carloscordova2023.github.io)
+
+---
+
+⭐ **¡No olvides darle estrella a mis proyectos si te gustan!**
+
+
+
 # 📦 Nombre del Proyecto
 
 ## 🎯 Objetivo
